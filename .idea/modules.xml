@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alex/Alex.iml" filepath="$PROJECT_DIR$/Alex/Alex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment1.iml" filepath="$PROJECT_DIR$/.idea/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bowling/Bowling.iml" filepath="$PROJECT_DIR$/Bowling/Bowling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Grades/Grades.iml" filepath="$PROJECT_DIR$/Grades/Grades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradesInterface/GradesInterface.iml" filepath="$PROJECT_DIR$/GradesInterface/GradesInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ship/Ship.iml" filepath="$PROJECT_DIR$/Ship/Ship.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cha7PersonCustomer/cha7PersonCustomer.iml" filepath="$PROJECT_DIR$/cha7PersonCustomer/cha7PersonCustomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chlng8PreferedCu/chlng8PreferedCu.iml" filepath="$PROJECT_DIR$/chlng8PreferedCu/chlng8PreferedCu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe1MySavings/exe1MySavings.iml" filepath="$PROJECT_DIR$/exe1MySavings/exe1MySavings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe2DigitExtarctor/exe2DigitExtarctor.iml" filepath="$PROJECT_DIR$/exe2DigitExtarctor/exe2DigitExtarctor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe3LunchOrder/exe3LunchOrder.iml" filepath="$PROJECT_DIR$/exe3LunchOrder/exe3LunchOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe4DiceRoll/exe4DiceRoll.iml" filepath="$PROJECT_DIR$/exe4DiceRoll/exe4DiceRoll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe5Nim/exe5Nim.iml" filepath="$PROJECT_DIR$/exe5Nim/exe5Nim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe6GameOf21/exe6GameOf21.iml" filepath="$PROJECT_DIR$/exe6GameOf21/exe6GameOf21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe8Adder/exe8Adder.iml" filepath="$PROJECT_DIR$/exe8Adder/exe8Adder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upload/upload.iml" filepath="$PROJECT_DIR$/upload/upload.iml" />
+    </modules>
+  </component>
+</project>
